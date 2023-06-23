@@ -1,8 +1,8 @@
 # Build a Fomik Form
 
-The goal of this exercise was to create a login form and field validation using the Formik library and React. Submitting the form does nothing, as there's no actual login functionality; the aim was to become familiar with Formik and basic frontend validation. This project was created as an assingment for the MIT Full-Stack MERN Certification.
+The goal of this exercise was to create a login form and field validation using the Formik library and React. Submitting the form displays an alert box will display on success. This project was created as an assingment for the MIT Full-Stack MERN Certification.
 
-## Assignmnet Instructions (Using Formik)
+## Assignment Instructions (Using Formik)
 
 _Note: This lesson takes a long time to load because it has to download the dependencies and then start the React development server._
 
@@ -37,3 +37,11 @@ Your form should implement the following specific details:
 - The submit button should have an id of `submitBtn`
 
 The starter code can be found inside `src/App.js`.
+
+## Implementation
+
+- Clone, fork or download the repository
+- Use the terminal to navigate to the project root directory
+- Run "npm install"
+- Run "npm start" to run the dev server
+- Run "npm build" to build the project
